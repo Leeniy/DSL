@@ -18,5 +18,7 @@
     <Content Include="SpeakListener.cs" />
     <Content Include="SpeakParser.cs" />
     <Content Include="SpeakVisitor.cs" />
+    <Content Include=".antlr\SpeakLexer.interp" />
+    <Content Include=".antlr\Speak.interp" />
   </ItemGroup>
 </Project>
