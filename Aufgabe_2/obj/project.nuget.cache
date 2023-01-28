@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7V/+qLAddIzAKdqKlnTUwYz2XOYuvhs9j/a1+U4E/EfvzBjS+ETO4S1yn3u7Dt1yvuKxQDfLIuehKGpD+CzGw==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Desktop\\DSL\\DSL\\Aufgabe_2\\Aufgabe_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marle\\.nuget\\packages\\antlr4.runtime.standard\\4.9.3\\antlr4.runtime.standard.4.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
